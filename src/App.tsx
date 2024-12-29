@@ -13,7 +13,7 @@ function App() {
         
         <div className="w-64 h-64 bg-white/10 rounded-lg overflow-hidden">
           <img 
-            src="/VOICES.jpg" 
+            src="/public/VOICES.jpg" 
             alt="VOICE" 
             className="w-full h-full object-cover"
           />
