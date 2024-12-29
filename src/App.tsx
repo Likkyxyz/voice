@@ -15,7 +15,7 @@ function App() {
         
         <div className="w-64 h-64 bg-white/10 rounded-lg overflow-hidden">
           <img 
-            src="/cto.png" 
+            src="/VOICES.jpg" 
             alt="CTO" 
             className="w-full h-full object-cover"
           />
