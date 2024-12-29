@@ -13,8 +13,8 @@ function App() {
         
         <div className="w-64 h-64 bg-white/10 rounded-lg overflow-hidden">
           <img 
-            src="/vite.svg" 
-            alt="Local Image" 
+            src="/VOICES.jpg" 
+            alt="VOICE" 
             className="w-full h-full object-cover"
           />
         </div>
